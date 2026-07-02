@@ -102,6 +102,7 @@ Using Live Server:
 ## 📸 Screenshots
 
 ![](IMG/1.png)
+![](IMG/2.png)
 
 ---
 
